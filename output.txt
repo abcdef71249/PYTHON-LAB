@@ -1,0 +1,70 @@
+# 1 LIST MUTATION
+Original list: [1, 2, 3, 4, 5]
+List after removing last element: [1, 2, 3, 4]
+
+
+
+
+
+
+
+# 2. string_reassignment
+
+
+Original string: hello
+New string: xello
+New string (alternative method): xello
+
+
+
+
+
+# 3. DICTIONARY_MUTATION
+
+
+
+
+
+Before add_entry: {'original_key': 'original_value'}
+Inside add_entry: {'original_key': 'original_value', 'new_key': 'new_value'}
+After add_entry: {'original_key': 'original_value', 'new_key': 'new_value'}
+----------------------------------------
+Before reassign_dict: {'original_key': 'original_value'}
+Inside reassign_dict: {'completely_new_key': 42}
+After reassign_dict: {'original_key': 'original_value'}
+
+
+
+# 4. MAXIMUM NUMBER
+
+
+Enter the first number: 5
+Enter the second number: 7
+The maximum of the two numbers is: 7.0
+Enter the first number: 65
+Enter the second number: 18
+The maximum of the two numbers is: 65.0
+
+
+
+# 5. FACTORIAL NUMBER
+
+Enter a number to calculate its factorial: 8
+The factorial of 8 is: 40320
+
+
+
+
+
+# 6. CELSIUS TO FARHENHIET
+
+
+Enter temperature in Celsius: 75
+75.0°C is equal to 167.0°F
+
+
+
+
+
+
+c:\Users\hp\Desktop\output\dictionary.png c:\Users\hp\Desktop\output\FACTORIAL.png c:\Users\hp\Desktop\output\LIST_MUTATION.png c:\Users\hp\Desktop\output\max_number.png c:\Users\hp\Desktop\output\STRING_mutation.png c:\Users\hp\Desktop\output\TEMPERATURE_COVERT.png
